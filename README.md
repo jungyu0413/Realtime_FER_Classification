@@ -21,7 +21,7 @@ The model has been fine-tuned and deployed to operate on live webcam input, allo
 Watch a short demo of the system in action:
 
 [▶️ Demo Video]
-<video src="https://github.com/user-attachments/assets/6746d16f-fdab-46d8-bbe5-3cb256d124b8" controls width="600">
+<video src="https://github.com/user-attachments/assets/1dfa18b7-c0c6-4481-be6f-ad9f7e81ec6f" controls width="600">
   Your browser does not support the video tag.
 </video>
 
