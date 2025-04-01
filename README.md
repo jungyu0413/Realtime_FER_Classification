@@ -20,7 +20,10 @@ The model has been fine-tuned and deployed to operate on live webcam input, allo
 
 Watch a short demo of the system in action:
 
-[▶️ Demo Video]([https://your-demo-link.com](https://drive.google.com/file/d/1jbhn2OAP0NAuup48FUMbOZLFGkahA6dc/view?usp=drive_link))  
+[▶️ Demo Video]
+<video src="https://github.com/user-attachments/assets/6746d16f-fdab-46d8-bbe5-3cb256d124b8" controls width="600">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
