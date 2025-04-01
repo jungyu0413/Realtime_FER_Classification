@@ -1,4 +1,4 @@
-# Realtime Facial Expression Recognition Demo (AAAI 2025)
+# Realtime Facial Expression Recognition Demo
 
 This repository provides a real-time facial expression recognition demo based on the model proposed in our AAAI 2025 paper:  
 [**"Navigating Label Ambiguity for Facial Expression Recognition in the Wild"**](https://arxiv.org/abs/2502.09993)
@@ -33,4 +33,8 @@ Watch a short demo of the system in action:
 ```bash
 git clone https://github.com/jungyu0413/realtime_emotion
 cd realtime_emotion
+```
+### 2. Run the Application
+```bash
 python main.py
+```
